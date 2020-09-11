@@ -1,4 +1,5 @@
 # test-axios
+Projeto de estudo utilizando VueJs, o plugin do axios como client HTTP e o firebase como backend.
 
 ## Project setup
 ```
